@@ -97,7 +97,7 @@ p{
   color: #ffffff;
 }
 
-#navbar h1{
+#navbar .logo{
   float: left;
   padding: 20px;
 
